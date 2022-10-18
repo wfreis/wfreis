@@ -15,7 +15,6 @@
 
 
 ### Frameworks & Environments 🛠️
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.icons8.com/color/96/angularjs.png)
+![TypeScript](https://img.icons8.com/color/96/typescript.png)
+ 
