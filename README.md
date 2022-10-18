@@ -14,5 +14,5 @@
 
 ### Frameworks & Environments 🛠️
 ![Angular](https://img.icons8.com/color/96/angularjs.png)
-
+![NodeJs](https://img.icons8.com/color/96/nodejs.png)
  
